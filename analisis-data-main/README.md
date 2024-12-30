@@ -1,4 +1,4 @@
-# Proyek Analisis Data ✨
+# Project_Dicoding_Data_Analysis
 
 ## Setup environment
 ```
