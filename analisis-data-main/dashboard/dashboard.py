@@ -46,4 +46,4 @@ plt.ylabel('Jumlah Penyewaan Sepeda')
 plt.title('Pengaruh Musim Terhadap Peminjaman Sepeda')
 st.pyplot(fig_bar_season_daily)
 
-st.caption('Copyright © Dicoding')
+st.caption('Copyright © likee')
