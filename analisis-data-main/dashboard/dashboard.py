@@ -7,7 +7,7 @@ sns.set(style='dark')
 
 # Load dataset
 # bike_sharing = pd.read_csv("bike_sharing.csv")
-bike_sharing = pd.read_csv("https://raw.githubusercontent.com/muhdavi/analisis-data/main/dashboard/bike_sharing.csv")
+bike_sharing = pd.read_csv("https://github.com/likesagitri/Project_Dicoding_Data_Analysis/raw/refs/heads/main/analisis-data-main/dashboard/bike_sharing.csv")
 
 with st.sidebar:
     # Menambahkan logo perusahaan
